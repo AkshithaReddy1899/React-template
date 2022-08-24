@@ -1,9 +1,7 @@
-import './App.css';
-
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">App</header>
+    <div className="App text-center text-4xl">
+      App
     </div>
   );
 }
